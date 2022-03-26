@@ -1,0 +1,6 @@
+/.idea
+/.mvn
+/billrun/target
+/billsetuptask/target
+/billrun/.mvn
+/billsetuptask/.mvn
